@@ -76,7 +76,7 @@ Carousel automático que se movimenta sem a intervenção o usuário, utilizando
    [Tutorial em vídeo](https://www.youtube.com/watch?v=nV5rscEJCPs)
 
 ## Prévia
-<img src="SolarSystem2.gif" width="300" />
+<img src="pangare.gif" width="500" />
 
 # Instalação
 ## Passo 1
