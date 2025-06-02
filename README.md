@@ -73,7 +73,7 @@ Carousel automático que se movimenta sem a intervenção o usuário, utilizando
         ```
 
   ## Para mais detalhes acesse meu vídeo tutorial em:
-    - 
+   [Tutorial em vídeo](https://www.youtube.com/watch?v=nV5rscEJCPs)
 
 ## Prévia
 <img src="SolarSystem2.gif" width="300" />
@@ -82,7 +82,7 @@ Carousel automático que se movimenta sem a intervenção o usuário, utilizando
 ## Passo 1
 Clone o projeto
 ```bash
-git clone https://github.com/paulogermanopg/RN_SolarSystem02
+git clone https://github.com/paulogermanopg/react-carousel-loop.git
 ```
 ## Passo 2
 Instale os pacotes necessários
@@ -96,11 +96,6 @@ npm install
 yarn install
 ```
 
-## Passo 3
-Se necessário, fixar as fonts usadas para o projeto com:
-```bash
-npx react-native-asset
-```
 # Licença do MIT
 Copyright (c) 2025 Paulo Germano
 
