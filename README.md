@@ -73,7 +73,7 @@ Carousel automático que se movimenta sem a intervenção o usuário, utilizando
         ```
 
   ## Para mais detalhes acesse meu vídeo tutorial em:
-    - 
+   [Tutorial em vídeo](https://www.youtube.com/watch?v=nV5rscEJCPs)
 
 ## Prévia
 <img src="SolarSystem2.gif" width="300" />
